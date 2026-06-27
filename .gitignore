@@ -1,0 +1,16 @@
+# 编译产物
+*.o
+*.exe
+*.out
+sm3_test
+hello
+
+# 编译文件夹
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
